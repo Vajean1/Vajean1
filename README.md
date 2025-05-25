@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Olá 🧙‍♂️</h1>
 
-<!--
-**Vajean1/Vajean1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <!-- Total de commits e contribuições -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Vajean1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+</p>
